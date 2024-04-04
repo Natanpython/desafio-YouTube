@@ -1,0 +1,57 @@
+.header{
+    display: flex;
+    width: 100%;
+    height: 56px;
+    justify-content: space-between;
+    padding: 10px;
+}
+.main{
+    display: flex;
+    gap: 10px;
+}
+.main .tela1{
+    width: 940px;
+    height: 746px;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+.tela1 .tela img{
+    width: 940px;
+}
+.tela1 .tela h1{
+    width: 871px;
+    height: 23px;
+    font-size: 19px;
+    font-weight: 600;
+    margin: 10px 0;
+}
+.tela1 .tela p{
+    width: 510px;
+    height: 64px;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+.tela1 .tela .legenda img{
+    width:902px;
+    margin-top: 5px;
+}
+.tela1 .tela h2{
+    width: 450px;
+    height: 16px;
+    font-weight: 600;
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.tela2{
+    height:938px;
+    width: 200px;
+    margin-top: 20px;
+}
+.videos_sugestao img{
+    margin-bottom: 10px;
+    
+    
+    
+}
